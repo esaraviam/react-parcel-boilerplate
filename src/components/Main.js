@@ -4,7 +4,7 @@ class Main extends Component{
     render(){
         return (
             <div>
-                <h1>HOLA MUNDO FROM PARCEL</h1>
+                <h1>HELLO WORLD FROM PARCEL</h1>
             </div>
         )
     }
