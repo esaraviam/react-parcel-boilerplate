@@ -1,10 +1,13 @@
 import React, { Component } from "react";
+import './main.css'
 
 class Main extends Component{
-    render(){
+
+    render(){       
+        
         return (
-            <div>
-                <h1>HELLO WORLD FROM PARCEL</h1>
+            <div className="media">
+                <h1>HELLO WORLD FROM PARCEL 2 </h1>
             </div>
         )
     }

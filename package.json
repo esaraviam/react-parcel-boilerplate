@@ -4,12 +4,18 @@
   "description": "a simple react boilerplate without configuration",
   "main": "index.js",
   "scripts": {
-    "start": "parcel index.html"    
+    "start": "parcel index.html"
   },
-  "keywords": ["react" , "parcel" , "boilerplate"],
+  "keywords": [
+    "react",
+    "parcel",
+    "boilerplate"
+  ],
   "author": "Esteban Saravia @esaraviam",
   "license": "MIT",
   "dependencies": {
+    "autoprefixer": "^7.2.3",
+    "postcss-modules": "^1.1.0",
     "react": "^16.2.0",
     "react-dom": "^16.2.0"
   },
