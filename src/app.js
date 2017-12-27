@@ -4,4 +4,3 @@ import Main from './components/Main'
 
 
 ReactDom.render(<Main/>, document.getElementById('app'))
-console.log("Hola Mundo!!!")
